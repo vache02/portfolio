@@ -63,7 +63,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>HTML</motion.h2>
-          <motion.img src="../../../public/html5.png" variants={variants} />
+          <motion.img src="/html5.png" variants={variants} />
         </motion.div>
         <motion.div
           className="box"
@@ -71,7 +71,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>Css</motion.h2>
-          <motion.img src="/public/css.png" />
+          <motion.img src="/css.png" />
         </motion.div>
         <motion.div
           className="box"
@@ -79,7 +79,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>Javascript</motion.h2>
-          <motion.img src="/public/javascript.png" />
+          <motion.img src="/javascript.png" />
         </motion.div>
         <motion.div
           className="box"
@@ -87,7 +87,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>React</motion.h2>
-          <motion.img src="/public/react.png" />
+          <motion.img src="/react.png" />
         </motion.div>
         <motion.div
           className="box"
@@ -95,7 +95,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>Redux Toolkit</motion.h2>
-          <motion.img src="/public/redux.webp" />
+          <motion.img src="/redux.webp" />
         </motion.div>
         <motion.div
           className="box"
@@ -103,7 +103,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>React Query</motion.h2>
-          <motion.img src="/public/rquery.png" />
+          <motion.img src="/rquery.png" />
         </motion.div>
         <motion.div
           className="box"
@@ -111,7 +111,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>Tailwind Css</motion.h2>
-          <motion.img src="/public/tailwind.png" />
+          <motion.img src="/tailwind.png" />
         </motion.div>
         <motion.div
           className="box"
@@ -119,7 +119,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>Styled Components</motion.h2>
-          <motion.img src="/public/styled.webp" />
+          <motion.img src="/styled.webp" />
         </motion.div>
         <motion.div
           className="box"
@@ -127,7 +127,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>Trying to learn more...</motion.h2>
-          <motion.img src="/public/programmer.png" variants={variants} />
+          <motion.img src="/programmer.png" variants={variants} />
         </motion.div>
       </motion.div>
     </motion.div>
