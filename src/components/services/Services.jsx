@@ -63,7 +63,7 @@ const Services = () => {
           whileHover={{ background: "lightgray", color: "black" }}
         >
           <motion.h2 variants={variants}>HTML</motion.h2>
-          <motion.img src="/public/html5.png" variants={variants} />
+          <motion.img src="../../../public/html5.png" variants={variants} />
         </motion.div>
         <motion.div
           className="box"
