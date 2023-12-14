@@ -38,7 +38,7 @@ const items = [
   {
     id: 3,
     title: "Hoobank",
-    img: "/public/hoobank.png",
+    img: "/hoobank.png",
     desc: "Saw the cool design and tried to develope my skills in tailwind-css,design itself is relly nice.",
     toolpics: [
       "/public/html5.png",
