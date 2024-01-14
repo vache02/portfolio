@@ -18,7 +18,7 @@ const items = [
       "/redux.webp",
       "/styled.webp",
     ],
-    live: "https://the-wild-oas1s.netlify.app/login",
+    live: "https://6568503d7abd4601c13f3788--the-wild-oas1s.netlify.app/dashboard",
     code: "https://github.com/vache02/the-wild-oasis",
   },
   {

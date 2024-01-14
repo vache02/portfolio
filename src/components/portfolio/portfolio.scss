@@ -12,14 +12,15 @@
     color: #1e7e49;
     font-size: 36px;
 
-    @include mobile {
-      padding-top: calc(100vh - 100px);
-      font-size: 24px;
-    }
-
     .progressBar {
       height: 10px;
       background-color: white;
+    }
+
+    @include mobile {
+      padding-top: calc(100vh - 100px);
+      font-size: 24px;
+      z-index: -1;
     }
   }
 
