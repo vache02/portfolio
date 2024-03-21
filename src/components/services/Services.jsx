@@ -86,6 +86,14 @@ const Services = () => {
           variants={variants}
           whileHover={{ background: "lightgray", color: "black" }}
         >
+          <motion.h2 variants={variants}>Typescript</motion.h2>
+          <motion.img src="/typescript.png" />
+        </motion.div>
+        <motion.div
+          className="box"
+          variants={variants}
+          whileHover={{ background: "lightgray", color: "black" }}
+        >
           <motion.h2 variants={variants}>React</motion.h2>
           <motion.img src="/react.png" />
         </motion.div>

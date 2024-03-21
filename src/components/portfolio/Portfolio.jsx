@@ -41,6 +41,15 @@ const items = [
   },
   {
     id: 4,
+    title: "Bankist",
+    img: "/bankist.png",
+    desc: "Modern web application with sticky navbar,modal window and slider.You can use this App for implementing features like: lazy loading,slider,modal window and sticky navbar to your application as well.",
+    toolpics: ["/html5.png", "/css.png", "/javascript.png"],
+    live: "https://bank-1st.netlify.app/",
+    code: "https://github.com/vache02/Bankist",
+  },
+  {
+    id: 5,
     title: "Hoobank",
     img: "/hoobank.png",
     desc: "Saw the cool design and tried to develope my skills in tailwind-css,design itself is relly nice.",
@@ -55,7 +64,7 @@ const items = [
     code: "https://github.com/vache02/HooBank",
   },
   {
-    id: 5,
+    id: 6,
     title: "Travel List",
     img: "/travel.png",
     desc: "application helps you to plan and collect things that you need for a travel ))",

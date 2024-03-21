@@ -46,6 +46,7 @@
 
       @include mobile {
         flex-direction: column;
+        padding-top: 15vh;
       }
 
       .imageContainer {
