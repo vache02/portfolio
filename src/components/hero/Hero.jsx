@@ -48,7 +48,7 @@ const Hero = () => {
           animate="animate"
         >
           <motion.h2 variants={textVariants}>DAVIT VACHEISHVILI</motion.h2>
-          <motion.h1 variants={textVariants}>Front-End Developer</motion.h1>
+          <motion.h1 variants={textVariants}>Junior QA Tester</motion.h1>
           <motion.div variants={textVariants} className="buttons">
             <motion.a href="#Portfolio" variants={textVariants}>
               See the Latest Works
@@ -80,7 +80,7 @@ const Hero = () => {
         initial="initial"
         animate="animate"
       >
-        Junior front end developer
+        Junior QA Tester
       </motion.div>
     </div>
   );
