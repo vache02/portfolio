@@ -37,8 +37,8 @@ const Services = () => {
       <motion.div className="textContainer" variants={variants}>
         <p>
           <br />
-          My main goal is to transform your wish into reality by <br /> building
-          the coolest website!
+          My main goal is to transform your vision into reality by ensuring{" "}
+          <br /> the highest quality and reliability of your software!
         </p>
         <hr />
       </motion.div>
@@ -46,13 +46,14 @@ const Services = () => {
         <div className="title">
           <motion.img src="/brainstorm.jpg" alt="" />
           <h1>
-            <motion.b whileHover={{ color: "#1e7e49" }}>Unique</motion.b> Ideas
+            <motion.b whileHover={{ color: "#1e7e49" }}>Quality</motion.b>{" "}
+            Assured
           </h1>
         </div>
         <div className="title">
           <h1>
-            <motion.b whileHover={{ color: "#1e7e49" }}>For Your</motion.b>{" "}
-            Business.
+            <motion.b whileHover={{ color: "#1e7e49" }}>Precision </motion.b>{" "}
+            Delivered!
           </h1>
           <button>HOW CAN I DO? ⬃</button>
         </div>
@@ -86,14 +87,6 @@ const Services = () => {
           variants={variants}
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <motion.h2 variants={variants}>Typescript</motion.h2>
-          <motion.img src="/typescript.png" />
-        </motion.div>
-        <motion.div
-          className="box"
-          variants={variants}
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
           <motion.h2 variants={variants}>React</motion.h2>
           <motion.img src="/react.png" />
         </motion.div>
@@ -110,24 +103,16 @@ const Services = () => {
           variants={variants}
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <motion.h2 variants={variants}>React Query</motion.h2>
-          <motion.img src="/rquery.png" />
+          <motion.h2 variants={variants}>Testing Methodologies</motion.h2>
+          <motion.img src="/testing.png" />
         </motion.div>
         <motion.div
           className="box"
           variants={variants}
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <motion.h2 variants={variants}>Tailwind Css</motion.h2>
-          <motion.img src="/tailwind.png" />
-        </motion.div>
-        <motion.div
-          className="box"
-          variants={variants}
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <motion.h2 variants={variants}>Styled Components</motion.h2>
-          <motion.img src="/styled.webp" />
+          <motion.h2 variants={variants}>SQL</motion.h2>
+          <motion.img src="/SQL.png" />
         </motion.div>
         <motion.div
           className="box"

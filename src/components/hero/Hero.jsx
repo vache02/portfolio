@@ -71,7 +71,7 @@ const Hero = () => {
           initial="initial"
           animate="animate"
         >
-          <motion.img src="/hero2.png" alt="" variants={textVariants} />
+          <motion.img src="/DV.png" alt="" variants={textVariants} />
         </motion.div>
       </div>
       <motion.div
